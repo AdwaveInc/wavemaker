@@ -1,0 +1,17 @@
+Wavemaker CLI and SDK
+Copyright (c) 2026 Adwave Digital Inc. All rights reserved.
+
+Adwave Digital Inc. grants you a non-exclusive, non-transferable, revocable license to
+install and use unmodified copies of the Wavemaker CLI executables and the
+Wavemaker SDK packages to access Wavemaker services, subject to the Wavemaker
+Terms of Service. You may not sell, sublicense or redistribute them except
+through Adwave's official distribution channels, or modify, reverse engineer or
+create derivative works of them except as applicable law expressly permits.
+
+Third-party components are licensed under their own terms, listed in the
+dependency inventory published with each release.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL ADWAVE DIGITAL INC. BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
