@@ -5,8 +5,8 @@ Signed releases of `wavemaker`, the command-line client for [Wavemaker](https://
 Install instructions for your platform are at **https://wavemaker.io/download**.
 
 - Every release is tagged `cli-v<version>` and is immutable: its files are never replaced.
-- Each archive has a `.sha256` sidecar and a GitHub build attestation. Check one with
-  `gh attestation verify <archive> --repo AdwaveInc/adwave-wavemaker`.
+- Each archive has a `.sha256` sidecar, and the release attests every file. Check a
+  download with `gh release verify-asset <downloaded file> -R AdwaveInc/wavemaker`.
 - Update an installed client with `wavemaker self update`.
 
 The source code is not published here. This repository holds release files only, so
